@@ -129,8 +129,8 @@ Institute of Metallurgy and Materials Engineering, University of the Punjab, Lah
 
 Research interests: Materials informatics · Machine learning for alloy design · Microstructure–property relationships · Non-heat-treatable aluminum alloys  
 
-📧 [your.email@domain.com]  
-🔗 [LinkedIn URL]
+📧 [waseem19mmes2320@gmail.com]  
+🔗 [https://www.linkedin.com/in/waseem-chaudhry-552477247/]
 
 ## Project Team
 
